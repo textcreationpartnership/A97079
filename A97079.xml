@@ -1,0 +1,146 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The narratives of Sir Robert Walsh, Kt. and Btt. being by the false instigations of Edmond Everard, an Irish-man, seized upon This small one is to shew to the world what Sir Robert subscribes in relation to his narrative, desiring all loyal subjects to admit of a just censure therein, he being ready to affirm what he hath writ, not by any private information; but to maintain the same before any court of justice, either in the civil, common or marshal law; or unto any particular man's face who shall contradict it.</title>
+            <author>Walsh, Robert, Sir.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A97079</idno>
+            <idno type="STC">Wing W643G</idno>
+            <idno type="STC">ESTC R215511</idno>
+            <idno type="EEBO-CITATION">99895233</idno>
+            <idno type="PROQUEST">99895233</idno>
+            <idno type="VID">152766</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A97079)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 152766)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2319:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The narratives of Sir Robert Walsh, Kt. and Btt. being by the false instigations of Edmond Everard, an Irish-man, seized upon This small one is to shew to the world what Sir Robert subscribes in relation to his narrative, desiring all loyal subjects to admit of a just censure therein, he being ready to affirm what he hath writ, not by any private information; but to maintain the same before any court of justice, either in the civil, common or marshal law; or unto any particular man's face who shall contradict it.</title>
+                  <author>Walsh, Robert, Sir.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1680?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A reply to Edmund Everard's 'The depositions and examinations of Mr. Edmund Everard (who was four years close prisoner in the Tower of London) concerning the horrid popish plot against the life of His Sacred Majesty, the government, and the Protestant religion'.</note>
+                  <note>Page 1: "it fell out, that one Edmond Everard, who was so long kept prisoner in the Tower, for his intent to have poison'd his Grace the Duke of Monmouth, .. finding no other way to obtain his liberty, pretended to become an evidence for the King, in discovering great plots and conspiracies ..".</note>
+                  <note>Drop-head title.</note>
+                  <note>Reproduction of original in the Trinity College Library, Dublin.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Everard, Edmund. --  Depositions and examinations of Mr. Edmund Everard (who was four years close prisoner in the Tower of London) concerning the horrid popish plot against the life of His Sacred Majesty, the government, and the Protestant religion --  Early works to 1800.</term>
+               <term>Popish Plot, 1678 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:152766:1"/>
+            <head>THE NARRATIVES OF <hi>Sir Robert Walſh,</hi> K<hi rend="sup">t.</hi> and B<hi rend="sup">tt.</hi> Being by the falſe Inſtigations of Edmond Everard, An Iriſh-man, Seized upon.</head>
+            <head type="sub">This ſmall one is to ſhew to the WORLD what Sir ROBERT Subſcribes in relation to his <hi>NARRATIVE,</hi> Deſiring all Loyal Subjects to admit of a juſt Cenſure therein, He being ready to affirm what he hath writ, not by any private Information; but to maintain the ſame before any Court of JUSTICE, either in the Civil, Com<g ref="char:EOLhyphen"/>mon or Marſhal Law; or unto any parti<g ref="char:EOLhyphen"/>cular Man's face who ſhall contradict it.</head>
+            <p>IN the Month of <hi>July</hi> 1679. I publiſhed a Narrative relating to the late Trou<g ref="char:EOLhyphen"/>bles, as well in my own Vindication, as for publick Satisfaction; In which, nothing was contain'd but what I always offer'd to make good, and juſtifie before any Magiſtrate, or in any Court of Juſtice whatſoever. Nevertheleſs, ſo it fell out, that one <hi>Edmond Everard,</hi> who was ſo long kept Priſoner in the <hi>Tower,</hi> for his intent to have Poiſon'd his Grace the Duke of <hi>Monmouth,</hi> (as is at large ſet forth in the ſaid Narrative,) finding no other way to obtain his Liber<g ref="char:EOLhyphen"/>ty, pretended to become an Evidence for the King, in diſcovering great <hi>Plots</hi> and
+<pb n="2" facs="tcp:152766:2"/>Conſpiracies of many years ſtanding: And by this Pretence, as alſo giving his Bond for 50 <abbr>
+                  <hi>l.</hi>
+               </abbr> (of which he never paid a Penny, though the Work was done,) to Mrs. <hi>Betty Mackrel,</hi> for prevailing with ſome near the Duke of <hi>Monmouth,</hi> to take off his former Diſpleaſure againſt him; at laſt he obtain'd his Liberty, entitling himſelf one of His Majeſties Evidences. Now this <hi>Everard</hi> underſtanding that my Narrative confuted ſeveral paſſages of his Depoſitions, and fully diſcover'd the true cauſe of his Impriſonment in the <hi>Tower;</hi> He apply'd himſelf to Sir <hi>John Fre<g ref="char:EOLhyphen"/>derick,</hi> and Sir <hi>Robert Hanſon,</hi> Juſtices of the Peace in the City of <hi>London,</hi> falſly ſuggeſting that my ſaid Narrative was a <hi>Libel;</hi> and thereupon obtain'd their War<g ref="char:EOLhyphen"/>rant to ſeize my Books in the Binders Houſe, (about 2000 in number,) which to this day continue in the Conſtables hands one <hi>Grey</hi> of St. <hi>Martins, London:</hi> And though the ſaid Juſtices declar'd to the Conſtable, that he ſhould return them to me; and the Conſtable often promiſing me the Delivery of them; Yet by the ſaid <hi>Everard's</hi> means, he ſtill detains them, contrary to all Law and Equity; and (as I am credibly inform'd,) hath ſold ſeveral of them for 3 <abbr>
+                  <hi>s.</hi>
+               </abbr> apiece, without my privity, conſent, or order. But I am glad that my Books are not of that Seditious Diſloyal ſtrain, as thoſe moſt Malignant and Invective, Falſe and Traiterous Li<g ref="char:EOLhyphen"/>bels lately produced by this <hi>Everard,</hi> for which he now abſconds, (if not already taken,) Warrants being thereupon iſſued out againſt him.</p>
+            <p>In my Narrative, I declar'd, that being in <hi>France</hi> from the year 1669, till 1675. I came to underſtand of a Plot deſign'd to be put in Execution by ſome of my Kings Subjects, towards the ſubverſion of his Majeſties Fundamental Laws and Government, now eſtabliſhed; they preſuming to be upheld and born out by Fo<g ref="char:EOLhyphen"/>reign aſſiſtance, as it is more amply ſet forth in my Narrative. Theſe Plotters and Abettors I was always willing fully to diſcover, were I interrogated thereupon; For no pretence of Religion, Proteſtant, Papiſt or other, ſhall ever blind me ſo far as to conceal any Treacherous Deſign againſt my Sovereign: No, on the Word of a Chriſtian, <hi>I hold Honeſty and Loyalty the beſt Religion upon Earth.</hi>
+            </p>
+            <p>As for his Royal Highneſs, I declare, and am ready to prove that he was alto<g ref="char:EOLhyphen"/>gether a ſtranger to theſe practices; nay, I am ſure he would be the firſt in his Royal Perſon, that would hazard his life to quell and oppoſe ſuch Traiterous Attempts. What Dangers has he ever declined, to give a Teſtimony of his Zeal and Care for His Majeſties Service, and the Preſervation of his Laws and Loyal Subjects. Some will Cenſure his Belief, though they know not their own, much leſs another mans Religion. Can any groundedly ſay him to be otherwiſe, than a true Catholick of the Church of <hi>England?</hi> Sure I am, he is of that temper, That he loves all honeſt and peaceable Chriſtians, let them be of what Religion they will; and hates nothing more than ſuch as have too much Religion in their Mouths, but none in their Hearts, making a Cloak thereof to carry on their own evil deſigns againſt Church and State. Let none think I write this to curry Fa<g ref="char:EOLhyphen"/>vour with his Royal Highneſs; no, I do but my Duty, and what I owe to the Poſterity of his late Majeſty of moſt bleſſed Memory, whoſe goodneſs is ſo deeply imprinted in my heart, that although his Royal Highneſs has been pleaſed to have an ill Opinion of me, nay, to diſgrace me in publick; yet this ſhall never alienate or leſſen my Loyalty to my King, or my Duty to his Royal Highneſs: And were it not wholly againſt my Inclinations to prove diſloyal, I am ſure I have met with as much provocation as ever Subject did; and all this proceeding from the Malice of Fabulous Tale-tellers, and Lying Informers.</p>
+            <pb n="3" facs="tcp:152766:2"/>
+            <p>And though it came out of his Royal Highneſs mouth; The Calumniating me with the Title of Informer, it was he who inculcated the ſame into his Highneſſes head, who durſt not to my Face, ſay or lay any thing to my Charge diſadvantagi<g ref="char:EOLhyphen"/>ous; This I ſay and will maintain in any ground in Chriſtendom: that whoever he was that buzz'd that ill Character of me, into his Royal Highneſs ear, he could be no other than a moſt Villanous Lying Raſcal in that particular; This he perhaps may read, and will ſwallow: If he durſt have owned to my face what he ſaid, I would bid him kiſs, (or make him,) my —</p>
+            <p>I will no longer exſpatiat upon my unjuſt ſufferances, which my Narratives gives a full Account, and in what is perfectly true.</p>
+            <p>Now I will beg your Patience, in giving you a relation of what Barbarous uſage I received but this year laſt paſt, In the month of <hi>October</hi> 1679, intending to avoid the Darts of Malice, I obtained his Majeſties Gracious Protection, and Paſs in this and in all Kingdoms in Amity with his Majeſty; whereupon having ſent my Equi<g ref="char:EOLhyphen"/>page to be Embark'd at <hi>Graves-end,</hi> I went my ſelf to take Boat at <hi>Strand-bridge,</hi> and follow it; but paſſing by the <hi>New-Exchange,</hi> my Coach was ſtopt, and I ſeiz'd upon by half a dozen; I askt at whoſe Suit I was ſo ſeized upon? they anſwered, at the Kings; I replyed, I was ready and willing to obey, yet was I pull'd and hall'd out of my Coach; I ask'd where I was to be carry'd? they anſwered, before Sir <hi>Willi<g ref="char:EOLhyphen"/>am Waller</hi> and Mr. <hi>Everard;</hi> I ask'd where were they? they anſwered, at the <hi>Half-Moon Tavern:</hi> Thither was I hall'd, and hundreds of People about me; There ſate in State Sir <hi>William Waller,</hi> and this <hi>Edmund Everard</hi> on his left hand; I asked Sir <hi>William</hi> why I was ſo pull'd and halled out of my Coach? He anſwered, That I had got a Narrative Printed, which I could not juſtifie, and was then Arreſted for it; I asked, what did my Narrative contain contrary to the Laws of the Land? He Anſwer'd, That I Printed what I could not maintain of his Royal Highneſs rights, and it did reflect on Mr. <hi>Everard,</hi> who was an Evidence for the King; I replyed, that I got indeed a Narrative Printed in my own Vindication, againſt the malicious Calumnies publiſhed by that <hi>Everard</hi> who ſate by him, whoſe Narrative did ſcan<g ref="char:EOLhyphen"/>dalouſly reflect on me without the leaſt appearance of Truth: and ſince I ſubſcribed my name, neither <hi>Everard,</hi> nor any body elſe could term my Narrative a Libel, neither did I reflect on <hi>Everard,</hi> as he was the Kings Evidence, whether real or counterfeit, but as he maliciouſly traduced me in his Narrative, and abuſed my name; I farther repreſented, it was not ſeemly nor handſom in any man, that up<g ref="char:EOLhyphen"/>on the ſcore of being an Evidence for the King, he ſhould arrogate to himſelf the li<g ref="char:EOLhyphen"/>berty not only to ſlander and calumniate whom he pleaſed, but alſo favour and ſe<g ref="char:EOLhyphen"/>cure others more probably Criminal, by giving them a formal Protection under his hand, as this <hi>Everard</hi> did with good ſucceſs, prevailing with ſeveral that were Evi<g ref="char:EOLhyphen"/>dences for the King to countenance this his Preſumption, and Proſecute none ſo Protected by him: Thus one Mr. <hi>Kearney</hi> having this <hi>Everards</hi> Protection, had the opportunity to ſhift himſelf out of the Kingdom, he being at the ſame time charged and Proclaimed to have been one of the four Ruffians engaged to Murther his Sacred Majeſty; and though I may preſume, and am fully perſwaded, he could not be con<g ref="char:EOLhyphen"/>cerned in ſo baſe a Deſign, (I knowing the perſon well, and partly his Education) yet is not <hi>Everard</hi> excuſable, he then underſtanding that Mr. <hi>Kearny</hi> was nomina<g ref="char:EOLhyphen"/>ted in the Conſpiracy, and yet preſum'd to favour and protect him. And here I cannot but obſerve how prepoſterous a World is this, that <hi>Everards</hi> Protection
+<pb n="4" facs="tcp:152766:3"/>ſhould ſecure Mr. <hi>Kearny,</hi> who was ſworn Guilty of High Treaſon; and yet the Kings Protection could not ſecure me, though neither Treaſon, Diſloyalty or Fe<g ref="char:EOLhyphen"/>lony could be laid to my Charge. After my thus declaring to <hi>Everards</hi> face before Sir <hi>William Waller,</hi> yet Sir <hi>William</hi> tells me I muſt put in ſecurity to appear at the <hi>Kings-Bench</hi> in <hi>Weſtminſter,</hi> otherwiſe the Conſtable ſhould take me into his Charge, and keep me Priſoner in his own Houſe, I told Sir <hi>William</hi> I had no ſecurity, un<g ref="char:EOLhyphen"/>leſs he would take the beſt in the Kingdom; and that I was then to take Oars im<g ref="char:EOLhyphen"/>mediately for <hi>Graves-end,</hi> to leave the Kingdom; whereupon I produced my Paſs and Protection, with my Kings hand and Seal; which Sir <hi>William</hi> and <hi>Everard</hi> read, yet took no notice of it, but laughed and ſcoffed at it: Sir <hi>William</hi> gives the Conſtable charge to take me into his Cuſtody; but the Conſtable ſeeing His Majeſties Paſs, tells Sir <hi>William he had no room for me in his Houſe.</hi> Whereupon Sir <hi>William</hi> cries, Sir <hi>Robert Walſh, You are a Perſon of Honour, and if you will oblige your ſelf to appear on the</hi> 6th. <hi>of this Month at the Seſſions in</hi> Weſtminſter, <hi>where Mr.</hi> Everard, <hi>and I will be to make Party againſt you, you ſhall have your liberty.</hi> To this I conſented, and did accordingly give my attendance, and did appear upon the Bench at <hi>Westminſter,</hi> where ſate the Honourable the Lord <hi>Craven,</hi> and divers Noble Gentlemen that knew me. I attending there from Nine of the Clock till Twelve, did repreſent my Suf<g ref="char:EOLhyphen"/>ferings and hard uſage to the <hi>Bench,</hi> and this for Publiſhing a Narrative, to which I did ſubſcribe my Name, and was ready to Juſtifie; Sir <hi>William Waller,</hi> and <hi>Edmund Everard</hi> were called to proſecute their pretended Action againſt me, but neither of them appearing all that day, I was diſcharged by that Honourable Bench. Yet by this contrivance I ſuſtained a greater loſs than either <hi>Waller</hi> or <hi>Everard</hi> is able to repair; for the Ship in which I was to Embark, went away with my Goods and Equipage from <hi>Graves-end,</hi> and to this day I could never hear thereof; ſo that I loſt my Paſ<g ref="char:EOLhyphen"/>ſage and Goods, to my great damage, leaving me to ſeek for remedy againſt Sir <hi>Wil<g ref="char:EOLhyphen"/>liam Waller,</hi> and the Worſhipful (abſconded) <hi>Edmund Everard,</hi> who now lurks in holes, while I am ready to appear in diſcharge of my Loyalty and Duty to my King and Country, and to juſtify what I have declared at large in my former Narrative; and ſo would my Manifeſto's, (were they at Liberty,) do ſet forth.</p>
+            <p>Sir <hi>Robert Walſh</hi> his Narratives which lye ſeized upon, may let the World ſee, his Loyalty and his Honour, where and how gained and attained, which the Golden Medal at his Breaſt doth Witneſs, carrying the Effigies of His Majeſty of Bleſſed Memory, and that of His now Glorious Majeſty on the one-ſide, and inſculped on the other ſide the form of his Royal Banner, uſed at the Battel of <hi>Edge-hill,</hi> where Sir <hi>Robert</hi> received the Dignity of his Knighthood, and hath his Majeſties moſt Royal Hand to wear and carry the ſaid Medal; Yet ſome will be daſhing and carping at the ſaid Medal, I wiſh they may go ſo far fairly to gain the like. I ſhould not envy them.</p>
+            <p>Sir <hi>Robert Walſh,</hi> hath ſet forth in his Narrative, his Impriſonments for above ſe<g ref="char:EOLhyphen"/>ven years. The firſt he was by the Uſurper made Priſoner in the Tower, for which he had reaſon.</p>
+            <p>The next was Priſoner in the <hi>Baſtile,</hi> not without reaſon, he having ſerved the Prince of <hi>Conde</hi> againſt the <hi>French</hi> King.</p>
+            <p>The third Impriſonment, he was kept Priſoner 33 months in <hi>Bruſſels,</hi> through the ungrounded Inſtigation of ſome, as the beſt of men doth know, whoſe Pardon or Grace Sir <hi>Robert</hi> ever did diſown, and doth, if any Crime of Diſloyalty ever was, is, or could be laid to his Charge.</p>
+            <closer>
+               <salute>Witneſs my hand,</salute> 
+               <signed>Sir <hi>Robert Walſh</hi> K<hi rend="sup">t.</hi> and B<hi rend="sup">tt.</hi>
+               </signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:152766:3"/>
+         </div>
+      </body>
+   </text>
+</TEI>
